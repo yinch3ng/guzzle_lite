@@ -1,0 +1,4 @@
+*.pyc
+dist
+guzzle_lite.egg-info
+demo/_build

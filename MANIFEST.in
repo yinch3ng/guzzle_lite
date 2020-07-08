@@ -1,0 +1,3 @@
+include LICENSE
+include README.md
+recursive-include guzzle_lite/guzzle_lite *
