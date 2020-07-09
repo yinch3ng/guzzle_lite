@@ -960,6 +960,10 @@ span.eqno {
   }
 }
 
+.toctree-wrapper.compound {
+    line-height: 1.8;
+}
+
 /* Account for when the left column is closed then page is expanded.
 -------------------------------------------------- */
 
