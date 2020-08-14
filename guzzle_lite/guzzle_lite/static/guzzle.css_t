@@ -486,6 +486,10 @@ table {
   margin-bottom: 20px;
 }
 
+table, tr, td, th {
+  padding: 6px 13px;
+}
+
 table.indextable {
   width: 100%;
 }
