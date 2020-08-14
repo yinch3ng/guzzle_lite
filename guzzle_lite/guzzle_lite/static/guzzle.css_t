@@ -357,9 +357,7 @@ div.sphinxsidebar input {
 }
 
 #ss {
-  display:inline-block;
-  position: absolute;
-  right: 20%;
+  padding: 0 45px;
 }
 
 
