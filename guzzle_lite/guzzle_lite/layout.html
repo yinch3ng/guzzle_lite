@@ -89,9 +89,9 @@
                 <li><a href="{{ doc.link|e }}">{{ doc.title }}</a></li>
               {% endfor %}
               <li>{{ title }}</li>
-              <ul id="ss">{% include "searchbox.html" %}</ul>
             </ol>
           </div>
+          <div id="ss">{% include "searchbox.html" %}</div>
           {% endblock %}
           <div class="document clearer body">
             {% block body %} {% endblock %}
