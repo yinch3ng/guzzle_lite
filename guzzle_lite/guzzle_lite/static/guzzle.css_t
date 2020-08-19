@@ -416,10 +416,11 @@ table.two-column {
 -------------------------------------------------- */
 
 div.footer {
-  padding: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   font-size: 14px;
   color: #888;
-  text-align: right;
+  text-align: left;
   max-width: 1200px;
   width: 100%;
 }
