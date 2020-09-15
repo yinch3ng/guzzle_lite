@@ -26,9 +26,11 @@ body {
   margin-left: 300px;
   background-color: #fff;
   max-width: 900px;
+  width: 90%;
   margin: 20px auto;
   border-radius: 5px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.05),0 20px 48px rgba(0,0,0,0.05),0 1px 4px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 0 6px rgba(100,100,100,.6);
+  box-shadow: 0 0 6px rgba(100,100,100,.6);
 }
 
 a.headerlink {
